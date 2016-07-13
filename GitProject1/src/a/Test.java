@@ -1,5 +1,6 @@
 package a;
 
+//This class is for Testing purposes only!
 public class Test
 {
     private static void displayGreeting ()
