@@ -6,6 +6,8 @@ public class Test
     {
         System.out.println("Hello Happy Sales PPL");
         System.out.println("This App Shows Sales Data");
+
+        System.out.println("Test 1");
     }
 
     public static void main (String[] args)
